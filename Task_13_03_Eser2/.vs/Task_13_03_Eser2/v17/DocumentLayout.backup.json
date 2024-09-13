@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\EsercizioVen\\Task_13_03_Eser2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D43FB3EE-CADA-4B65-89D4-879F6D9C7C43}|Task_13_03_Eser2\\Task_13_03_Eser2.csproj|c:\\users\\utente\\source\\repos\\esercizioven\\task_13_03_eser2\\task_13_03_eser2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43FB3EE-CADA-4B65-89D4-879F6D9C7C43}|Task_13_03_Eser2\\Task_13_03_Eser2.csproj|solutionrelative:task_13_03_eser2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43FB3EE-CADA-4B65-89D4-879F6D9C7C43}|Task_13_03_Eser2\\Task_13_03_Eser2.csproj|c:\\users\\utente\\source\\repos\\esercizioven\\task_13_03_eser2\\task_13_03_eser2\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43FB3EE-CADA-4B65-89D4-879F6D9C7C43}|Task_13_03_Eser2\\Task_13_03_Eser2.csproj|solutionrelative:task_13_03_eser2\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\EsercizioVen\\Task_13_03_Eser2\\Task_13_03_Eser2\\classes\\Studente.cs",
+              "RelativeDocumentMoniker": "Task_13_03_Eser2\\classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\EsercizioVen\\Task_13_03_Eser2\\Task_13_03_Eser2\\classes\\Studente.cs",
+              "RelativeToolTip": "Task_13_03_Eser2\\classes\\Studente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:06:36.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\EsercizioVen\\Task_13_03_Eser2\\Task_13_03_Eser2\\Program.cs",
+              "RelativeDocumentMoniker": "Task_13_03_Eser2\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\EsercizioVen\\Task_13_03_Eser2\\Task_13_03_Eser2\\Program.cs",
+              "RelativeToolTip": "Task_13_03_Eser2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:00:55.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
