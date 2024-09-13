@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\EsercizioVen\\Task_13_09_Eser1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8ABFA9-9ACD-400F-B8D6-01900B235B07}|Task_13_09_Eser1\\Task_13_09_Eser1.csproj|c:\\users\\utente\\source\\repos\\esercizioven\\task_13_09_eser1\\task_13_09_eser1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8ABFA9-9ACD-400F-B8D6-01900B235B07}|Task_13_09_Eser1\\Task_13_09_Eser1.csproj|solutionrelative:task_13_09_eser1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\EsercizioVen\\Task_13_09_Eser1\\Task_13_09_Eser1\\Program.cs",
+              "RelativeDocumentMoniker": "Task_13_09_Eser1\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\EsercizioVen\\Task_13_09_Eser1\\Task_13_09_Eser1\\Program.cs",
+              "RelativeToolTip": "Task_13_09_Eser1\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:12:15.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
