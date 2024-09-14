@@ -15,18 +15,15 @@ namespace Task_13_09_Eser1
 
             while (attivo == true)
             {
-
-                Console.WriteLine("Inserisce il primo numero");
-                string? numA =(Console.ReadLine());
-
-
-                Console.WriteLine("Inserisce il secondo numero");
-                string? numB = (Console.ReadLine());
-
                 try
                 {
-                     int numeroA = Convert.ToInt16(numA);
-                     int numeroB = Convert.ToInt16(numB);
+                     Console.WriteLine("Inserisce il primo numero");
+                string? numA =(Console.ReadLine());
+
+                int numeroA = Convert.ToInt16(numA);
+                Console.WriteLine("Inserisce il secondo numero");
+                string? numB = (Console.ReadLine());
+                int numeroB = Convert.ToInt16(numB);
 
 
 
@@ -63,7 +60,7 @@ namespace Task_13_09_Eser1
                             break;
 
                         case "D":
-                            if (numeroA == 0 || numeroB == 0)
+                            if ( numeroB == 0)
                             {
                                 Console.WriteLine("Errore i numeri non possono essere zero");
                             }
@@ -92,8 +89,8 @@ namespace Task_13_09_Eser1
                             double RadRisultato = Math.Sqrt(NumUno);
                             double RadRisultatodue = Math.Sqrt(NumDue);
 
-                            Console.WriteLine($"radice  del primo numero:{RadRisultato}");
-                            Console.WriteLine($"radice del secondo numero{RadRisultatodue}");
+                            Console.WriteLine($"radice  del primo numero: {RadRisultato}");
+                            Console.WriteLine($"radice del secondo numero: {RadRisultatodue}");
 
                             break;
 
