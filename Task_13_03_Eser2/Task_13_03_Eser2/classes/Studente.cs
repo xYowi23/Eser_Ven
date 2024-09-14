@@ -16,6 +16,10 @@ namespace Task_13_03_Eser2.classes
 
         public Studente() { }
 
+     
+
+
+
 
 
         public void StampaDettaglio()
