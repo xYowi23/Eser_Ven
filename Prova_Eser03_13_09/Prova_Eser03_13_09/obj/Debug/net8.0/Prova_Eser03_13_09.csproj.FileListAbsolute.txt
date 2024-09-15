@@ -1,0 +1,15 @@
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\bin\Debug\net8.0\Prova_Eser03_13_09.exe
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\bin\Debug\net8.0\Prova_Eser03_13_09.deps.json
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\bin\Debug\net8.0\Prova_Eser03_13_09.runtimeconfig.json
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\bin\Debug\net8.0\Prova_Eser03_13_09.dll
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\bin\Debug\net8.0\Prova_Eser03_13_09.pdb
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\obj\Debug\net8.0\Prova_Eser03_13_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\obj\Debug\net8.0\Prova_Eser03_13_09.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\obj\Debug\net8.0\Prova_Eser03_13_09.AssemblyInfo.cs
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\obj\Debug\net8.0\Prova_Eser03_13_09.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\obj\Debug\net8.0\Prova_Eser03_13_09.sourcelink.json
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\obj\Debug\net8.0\Prova_Eser03_13_09.dll
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\obj\Debug\net8.0\refint\Prova_Eser03_13_09.dll
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\obj\Debug\net8.0\Prova_Eser03_13_09.pdb
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\obj\Debug\net8.0\Prova_Eser03_13_09.genruntimeconfig.cache
+C:\Users\Utente\source\repos\EsercizioVen\Prova_Eser03_13_09\Prova_Eser03_13_09\obj\Debug\net8.0\ref\Prova_Eser03_13_09.dll
