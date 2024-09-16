@@ -154,6 +154,7 @@ namespace Task_13_03_Eser2
                         foreach (var SingleStudente in studenti)
                         {
 
+
                             if (SingleStudente.Voto == FilVoto)
                             {
                                  votoTrovato = true;
@@ -179,7 +180,7 @@ namespace Task_13_03_Eser2
                         Console.WriteLine("Inserire il Nome dello studente da eliminare \n");
                         var CercaEliminaNome = Console.ReadLine();
                         
-                        int count = 0;
+                        
 
 
                         List<Studente> studentiDaEliminare = new List<Studente>();
