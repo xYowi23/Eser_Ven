@@ -66,7 +66,10 @@ namespace Task_13_09_Eser1
                             }
                             else
                             {
-                                int DivRisultato = (numeroA / numeroB);
+
+                                double numbe= Convert.ToDouble(numeroA);
+                                double espone = Convert.ToDouble(numeroB);
+                                double DivRisultato = (numbe / espone);
                                 Console.WriteLine(DivRisultato);
                             }
                             break;
